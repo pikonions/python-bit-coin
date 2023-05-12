@@ -1,4 +1,4 @@
 def printbanyak(text,banyaknya):
     for i in range(banyaknya):
-        print(text)
+        print(i+1,text)
 printbanyak("jordanchan",100)
