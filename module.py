@@ -1,0 +1,23 @@
+# import math
+# print (math.sqrt(3))
+from turtle import*
+def gambarM():
+    forward(10)
+    left(90)
+    forward(30)
+    right(135)
+    forward(20)
+    left(90)
+    forward(20)
+    right(135)
+    forward(30)
+    left(90)
+    forward(10)
+    left(90)
+    forward(50)
+    left(135)
+    forward(35)
+    right(90)
+    forward(35)
+    left(135)
+    forward(50)
